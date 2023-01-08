@@ -1,2 +1,2 @@
-print(2)
-print(2)
+def (a):
+    print(2)
